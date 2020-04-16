@@ -1,0 +1,10 @@
+Zourntos	Takis	93.875
+Jumanji		Rafaela	78.25
+Alfredo		Tala	98.9375
+Subramanian	Prabha  99.125
+Chico		Peurte	67.0
+Demania		Alex	53.25
+Gupta		Jackie	84.625  
+Dakas		Gerhs	20.125
+NULL_NAME	NULL_NAME 0.0
+
